@@ -1,2 +1,2 @@
-# OCR_and_RAG
+# Medical Chatbot
 Code files from Noora
